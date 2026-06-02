@@ -22,6 +22,8 @@ Based on my PhD research, I have published two articles: one on [female Chinese 
 
 My research on Chinese international students' self-presentation on dating apps has been reported in [Sixth Tone](https://www.sixthtone.com/news/1017417).
 
+I have also published an article in _Chinese Journal of Communication_ examining ["TikTok refugee" incident on RedNote](https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212#abstract). The article demonstrates how memes facilitated intercultural communication, affective exchange, and political expression during the migration of users from TikTok to RedNote (Xiaohongshu) in early 2025.
+
 ## 🧑‍🏫Teaching experiences
 I have worked as a teaching assistant for several courses at Durham University, including _Cultural Identity, Interculturality and Education_; _Contemporary Issues and Evidence in Education_; and _Double Dissertation: Disciplinary Contexts of Education_. I also delivered several lectures across these courses and gave a guest lecture for the module _Culture and Society of Contemporary China_ at the University of Nottingham. I also served as a keynote speaker at the Master’s conference held by the School of Education at Durham University. Prior to this, I worked as a TOEFL teacher at New Oriental Education & Technology Group Inc. for around two years.
 
