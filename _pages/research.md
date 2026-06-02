@@ -30,4 +30,4 @@ Based on the main findings of my doctoral research, the following articles have 
 ## Intercultural Communication and Digital Media Platforms
 Another line of my research focuses on intercultural communication and digital media platforms. I am interested in how social media influences people’s practices of intercultural communication. One project I conducted with colleagues examines the use of memes in intercultural communication on RedNote during the phenomenon known as the “TikTok refugee.” 
 
-- Meng, T., Qin, Y., & Liu, X. (2026). [“Hi, TikTok Refugees!”: How Memes Talk in the TikTok-to-RedNote Migration.](https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212#abstract) *Chinese Journal of Communication*, Online First. https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212#abstract
+- Meng, T., Qin, Y., & Liu, X. (2026). [“Hi, TikTok Refugees!”: How Memes Talk in the TikTok-to-RedNote Migration.](https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212#abstract) *Chinese Journal of Communication*, Online First. https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212
