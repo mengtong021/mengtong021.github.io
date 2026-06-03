@@ -7,7 +7,7 @@ excerpt: 'Mobile dating applications (MDAs), ubiquitous dating platforms worldwi
 date: 2025-06-09
 venue: 'Feminist Media Studies'
 paperurl: 'https://www.tandfonline.com/doi/pdf/10.1080/14680777.2025.2514793'
-citation: 'Meng, T. (2025). “Fair-skinned, young and slim” or “Kardashian-style”: UK-based female Chinese international students’ self-presentation on mobile dating applications. <i>Feminist Media Studies</i>, 1-18.'
+citation: 'Meng, T. (2025). “Fair-skinned, young and slim” or “Kardashian-style”: UK-based female Chinese international students’ self-presentation on mobile dating applications. <i>Feminist Media Studies</i>, Advanced Online.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
