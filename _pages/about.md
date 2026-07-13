@@ -18,7 +18,7 @@ I received my MA degree in TESOL with Distinction from [Institute of Education, 
 
 # Selected Experiences
 ## 📖Publications
-Based on my PhD research, I have published three articles: the first examines [Chinese international students' motivations for using dating apps](https://www.tandfonline.com/doi/full/10.1080/1369183X.2026.2702179) in _Journal of Ethnic and Migration Studies_, the second explores[female Chinese international students’ racial preferences on dating apps](https://journals.sagepub.com/doi/10.1177/13607804251320487) in _Sociological Research Online_, and the third investigates their [online self-presentation](https://www.tandfonline.com/doi/full/10.1080/14680777.2025.2514793) in _Feminist Media Studies_.
+Based on my PhD research, I have published three articles: the first examines [Chinese international students' motivations for using dating apps](https://www.tandfonline.com/doi/full/10.1080/1369183X.2026.2702179) in _Journal of Ethnic and Migration Studies_, the second explores [female Chinese international students’ racial preferences on dating apps](https://journals.sagepub.com/doi/10.1177/13607804251320487) in _Sociological Research Online_, and the third investigates their [online self-presentation](https://www.tandfonline.com/doi/full/10.1080/14680777.2025.2514793) in _Feminist Media Studies_.
 
 My research on Chinese international students' self-presentation on dating apps has been reported in [Sixth Tone](https://www.sixthtone.com/news/1017417).
 
