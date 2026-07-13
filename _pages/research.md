@@ -23,11 +23,13 @@ Methodologically, this research adopts a longitudinal qualitative design, this r
 Practically, the findings offer important implications for higher education institutions seeking to better support international students. Beyond academic performance and English language development, students’ intimate relationships and the challenges they encounter in this domain deserve greater attention, given their significant impact on wellbeing and everyday life.
 
 Based on the main findings of my doctoral research, the following articles have been published:
-- Meng, T. (2025). [“Fair-skinned, young and slim” or “Kardashian-style”: UK-based female Chinese international students’ self-presentation on mobile dating applications.](https://www.tandfonline.com/doi/full/10.1080/14680777.2025.2514793) *Feminist Media Studies*, Advanced Online. https://doi.org/10.1080/14680777.2025.2514793
+- Meng, T. (2026). [Digital intimacy and transient desire: Chinese international students’ motivations and experiences of using mobile dating applications in the UK](https://www.tandfonline.com/doi/full/10.1080/1369183X.2026.2702179) *Journal of Ethnic and Migration Studies*, Advanced Online. https://www.tandfonline.com/doi/full/10.1080/1369183X.2026.2702179
 
 - Meng, T. (2026). [Love in a Transient Sexual Field: Female Chinese International Students’ Racialised Desire on Mobile Dating Applications.](https://journals.sagepub.com/doi/10.1177/13607804251320487) *Sociological Research Online*, 31(1). https://doi.org/10.1177/13607804251320487
+
+- Meng, T. (2025). [“Fair-skinned, young and slim” or “Kardashian-style”: UK-based female Chinese international students’ self-presentation on mobile dating applications.](https://www.tandfonline.com/doi/full/10.1080/14680777.2025.2514793) *Feminist Media Studies*, Advanced Online. https://doi.org/10.1080/14680777.2025.2514793
 
 ## Intercultural Communication and Digital Media Platforms
 Another line of my research focuses on intercultural communication and digital media platforms. I am interested in how social media influences people’s practices of intercultural communication. One project I conducted with colleagues examines the use of memes in intercultural communication on RedNote during the phenomenon known as the “TikTok refugee.” 
 
-- Meng, T., Qin, Y., & Liu, X. (2026). [“Hi, TikTok Refugees!”: How Memes Talk in the TikTok-to-RedNote Migration.](https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212#abstract) *Chinese Journal of Communication*, Online First. https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212
+- Meng, T., Qin, Y., & Liu, X. (2026). [“Hi, TikTok Refugees!”: How Memes Talk in the TikTok-to-RedNote Migration.](https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212#abstract) *Chinese Journal of Communication*, Advanced Online. https://www.tandfonline.com/doi/full/10.1080/17544750.2026.2674212
